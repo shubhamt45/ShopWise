@@ -1,5 +1,12 @@
 # ShopWise Ecommerce Platform
 
+![User Mode](https://github.com/shubhamt45/ShopWise/blob/main/Screenshot%202025-06-08%20192009.png?raw=true)  
+
+![Admin Mode](https://github.com/shubhamt45/ShopWise/blob/main/Screenshot%202025-06-08%20192214.png?raw=true)
+
+![Bill Genration](https://github.com/shubhamt45/ShopWise/blob/main/Screenshot%202025-06-08%20193154.png?raw=true)
+
+
 
 
 ShopWise is a full-stack ecommerce solution featuring a modern React frontend and robust Spring Boot backend. Designed for both customers and administrators, it provides seamless shopping experiences and efficient product management.
