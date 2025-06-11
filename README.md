@@ -37,6 +37,9 @@ ShopWise is a full-stack ecommerce solution featuring a modern React frontend an
 - 🔄 **RESTful APIs**: Clean backend architecture
 - 📦 **Image Optimization**: Efficient file handling
 - 📊 **Dynamic UI**: Reactive components with Bootstrap 5
+  - **🏗️ Robust Architecture**:  
+  - Layered MVC design with 🧑‍💻 Controllers, 💼 Services, 📂 Repositories, and ✨ DTOs.  
+
 
 ## Technology Stack
 
